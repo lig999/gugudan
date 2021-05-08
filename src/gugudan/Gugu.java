@@ -6,7 +6,7 @@ public class Gugu {
 		// TODO Auto-generated method stub
 
 		System.out.println(2*1);
-		Systme.out.print
+		System.out.print(2*1);
 		
 	}
 
