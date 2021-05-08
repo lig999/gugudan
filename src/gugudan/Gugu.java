@@ -7,29 +7,17 @@ public class Gugu {
 		// TODO Auto-generated method stub
 		System.out.println("구구단중 출력할 단은? ");
 		Scanner iss= new Scanner(System.in);
-       int a = iss.nextInt();
-	System.out.println("number :" + a);
+      int number = iss.nextInt();
+		System.out.println(number+"단"+number+"*"+1+"="+number*1);
+		System.out.println(number+"단"+number+"*"+2+"="+number*2);
+		System.out.println(number+"단"+number+"*"+3+"="+number*3);
+		System.out.println(number+"단"+number+"*"+4+"="+number*4);
+		System.out.println(number+"단"+number+"*"+5+"="+number*5);
+		System.out.println(number+"단"+number+"*"+6+"="+number*6);
+		System.out.println(number+"단"+number+"*"+7+"="+number*7);
+		System.out.println(number+"단"+number+"*"+8+"="+number*8);
+		System.out.println(number+"단"+number+"*"+9+"="+number*9);
 		
-	
-	int ressult = a*1;
-	System.out.println( ressult);
-	ressult = a*2;
-	System.out.println( ressult);
-	ressult = a*3;
-	System.out.println( ressult);
-	 ressult = a*4;
-	System.out.println( ressult);
-	ressult = a*5;
-	System.out.println( ressult);
-	ressult = a*6;
-	System.out.println( ressult);
-	 ressult = a*7;
-	System.out.println( ressult);
-	ressult = a*8;
-	System.out.println( ressult);
-	ressult = a*9;
-	System.out.println( ressult);
-	
 		  }
 
 }
